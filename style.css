@@ -1,0 +1,24 @@
+canvas {
+    border: 1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    display: block;
+    margin: 20px auto;
+}
+
+.controls {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.middle-row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 8px 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
